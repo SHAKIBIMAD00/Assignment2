@@ -365,7 +365,7 @@ animation: fadeInRight 0.8s ease-out forwards;
     margin: 0px;
     padding: 0px;
     background: var(--secondary-color);
-    width: 350px;
+    width: 400px;
     border-radius: 15px;
 }
 .card4 iframe{
@@ -589,7 +589,7 @@ animation: fadeInRight 0.8s ease-out forwards;
     margin: 0px;
     padding: 0px;
     background: var(--secondary-color);
-    width: 350px;
+    width: 400px;
     border-radius: 15px;
     margin-left: 0px;
 }
