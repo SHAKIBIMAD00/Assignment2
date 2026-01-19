@@ -589,12 +589,13 @@ animation: fadeInRight 0.8s ease-out forwards;
     margin: 0px;
     padding: 0px;
     background: var(--secondary-color);
-    width: 400px;
+    width: 350px;
     border-radius: 15px;
     margin-left: 0px;
 }
 .card4 iframe{
     border-radius: 15px 15px 0px 0px;
+    width: 350px;
 }
 .podtext h1{
     color: var(--text-color);
